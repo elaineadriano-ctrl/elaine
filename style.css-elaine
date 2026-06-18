@@ -1,0 +1,30 @@
+*{
+
+  box-sizing: borger-box;
+  margin:0;
+  padding: 0;
+}
+#img{
+    width: 100%;
+    display: block;
+}
+.main{
+    background:#50337e6e;
+    text-align: center;
+    line-height: 1.5;
+    height: 300px;
+ }
+   #t1{
+    padding:40px 0 10px 0 ;
+   }
+   .inferior{
+     background-color:rgba(0, 26, 255, 0.322)
+     }
+   .texto{
+    background-color: #9c46be27 ;
+   width:40%
+}
+   .img2{
+    width: 40%;
+   }
+ 
